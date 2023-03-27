@@ -5,9 +5,6 @@
 //  Created by Kian Tamjidi on 08/09/2022.
 //
 
-
-//CREATE A FUNCTION THAT CALCULATES THE DIFFICULTY FOR EACH TOPIC, ADDING ALL DIFFICULTIES AND DIVIDING BY 12, THIS WOULD BE OUTPUT ON THE MainTheoryScreen
-
 import SwiftUI
 import Foundation
 import CoreData
