@@ -15,4 +15,3 @@ This project was developed for the A Level OCR qualification and achieved 100%.
 - Swift
 - SwiftUI
 - Core Data
-- Xcode project (`MusicApp.xcodeproj`)
