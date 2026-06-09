@@ -1,6 +1,7 @@
 # MusicApp
 
 MusicApp is an iOS SwiftUI practice companion for musicians. It helps users plan practice sessions, track progress, and review music theory in one app.
+This project was developed for the A Level OCR qualification and achieved 100%.
 
 ## Features
 - **Home**: start practice sessions and view current level, streak, and points.
@@ -15,8 +16,3 @@ MusicApp is an iOS SwiftUI practice companion for musicians. It helps users plan
 - SwiftUI
 - Core Data
 - Xcode project (`MusicApp.xcodeproj`)
-
-## Run Locally
-1. Open `MusicApp.xcodeproj` in Xcode.
-2. Select the `MusicApp` scheme.
-3. Build and run on an iOS simulator or device (iOS 16+).
